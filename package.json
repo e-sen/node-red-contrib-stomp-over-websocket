@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-stomp-over-websocket",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Node Red Contrib Stomp Over Websocket",
   "main": "index.js",
   "scripts": {
